@@ -1,4 +1,4 @@
 # firstrepo
 This is my first repository
 <br>
-Author - Shristi Pandey
+Author - Shristi Pandey (Author)
